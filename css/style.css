@@ -1,0 +1,7 @@
+body{
+    font-family: "roboto",sans-serif;
+    height:10000px;
+    background-color:var(--dark-color) ;
+}
+nav{background-color: grey;}
+.row{background-color: gray;}
